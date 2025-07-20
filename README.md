@@ -4,7 +4,7 @@ Visualizing global CO₂ emissions from various sources
 
 This project visualizes global CO₂ emissions from various industrial and fuel sources using a **stacked area graph** built in Python. The visualization uses Matplotlib with the `SciencePlots` style for a professional, publication-ready look.
 
-![CO₂ Emissions](CO2%20fuelsemission.png)
+![CO₂ Emissions](CO2 fuelsemission (1).png)
 
 ---
 
